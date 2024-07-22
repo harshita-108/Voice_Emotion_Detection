@@ -1,0 +1,11 @@
+Libraries	    pip Command		
+1. numpy	|  pip install numpy	
+2. sklearn	|  pip install scikit-learn	
+3. os		|  pip install os-sys
+4. Tkinter	|  pip install tk
+5. tensorflow	|  pip install tensorflow
+5. matplotlib	|  pip install matplotlib
+6. OpenCV	|  pip install opencv-python
+7. Librosa	|  pip install librosa
+8. wave		|  pip install wave
+9. pyaudio	|  pip install pyaudio
